@@ -24,4 +24,8 @@ public void HomePageTest(String c) {
 public void add(int a,int b) {
 	System.out.println(a+b);
 }
+@Test
+public void newtest() {
+	System.out.println("new test added by Mahendra");
+}
 }
